@@ -39,5 +39,5 @@ jobs:
         with:
           branch: gh-pages
           clean: true
-          folder: java-library-template/build/docs/javadoc
+          folder: fancy-library-name/build/docs/javadoc
           target-folder: javadoc/${{ env.PUBLISH_VERSION }}
