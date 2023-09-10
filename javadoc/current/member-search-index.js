@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.acme.fancy.lib","c":"JavaLibraryTemplate","l":"JavaLibraryTemplate()","u":"%3Cinit%3E()"},{"p":"org.acme.fancy.lib","c":"JavaLibraryTemplate","l":"toFunkyCase(String)","u":"toFunkyCase(java.lang.String)"}];updateSearchResults();
